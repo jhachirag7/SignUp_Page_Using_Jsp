@@ -13,3 +13,13 @@ iii)RegisterDao.java -> this is for backend where i have used mysql workbench to
 
 
 you can use css to style your page and put the file into the web content of your project.
+
+## Output
+
+### SignUp Page
+<img alt="Register" src="images/signupPage.png">
+
+### database
+
+<img alt="database" src="images/database.png">
+
